@@ -1,0 +1,32 @@
+{
+  "name": "book_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.12",
+    "nodemon": "^2.0.6",
+    "objection": "^2.2.3",
+    "objection-unique": "^1.2.1",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan28Sahoo/LibrarY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan28Sahoo/LibrarY/issues"
+  },
+  "homepage": "https://github.com/chandan28Sahoo/LibrarY#readme"
+}
